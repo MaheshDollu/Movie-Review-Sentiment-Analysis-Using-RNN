@@ -42,8 +42,4 @@ Mahesh Dollu
 
 📝 Feel free to contribute or fork this project! 🚀
 
-yaml
-Copy
-Edit
 
---
