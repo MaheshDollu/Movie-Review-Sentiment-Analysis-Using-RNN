@@ -9,3 +9,4 @@ transformers
 torch
 vaderSentiment
 textblob
+tensorflow==2.12.0
